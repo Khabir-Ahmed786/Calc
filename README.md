@@ -157,8 +157,10 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](image.png)
-![Alt text](image-1.png)
+![image](https://github.com/knight7080/Calc/assets/88542035/008e9c42-80b5-47b8-89cd-f72f33351d86)
+![image](https://github.com/knight7080/Calc/assets/88542035/8dacbb6d-39dd-4e74-a732-24d5fae16e9c)
+
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
