@@ -158,7 +158,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![image](https://github.com/knight7080/Calc/assets/88542035/008e9c42-80b5-47b8-89cd-f72f33351d86)
-![image](https://github.com/knight7080/Calc/assets/88542035/8dacbb6d-39dd-4e74-a732-24d5fae16e9c)
+![image](https://github.com/knight7080/Calc/assets/88542035/e689f22d-7c11-4eae-b0f4-0276db9ec195)
+
 
 
 
