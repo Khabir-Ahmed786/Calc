@@ -157,8 +157,10 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](image.png)
-![Alt text](image-1.png)
+![image](https://github.com/Khabir-Ahmed786/Calc/assets/143950752/2ba57af4-75e3-4d15-babd-0f43678fb6b5)
+![image](https://github.com/Khabir-Ahmed786/Calc/assets/143950752/e3ba98c3-959f-4097-9e54-f9d75484389c)
+
+
 
 
 
